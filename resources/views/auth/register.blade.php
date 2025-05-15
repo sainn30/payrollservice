@@ -1,5 +1,5 @@
 <x-guest-layout>
-    <div class="p-6 flex items-center justify-center bg-gradient-to-br from-blue-900 via-indigo-900 to-blue-800 rounded-lg">
+    <div class="p-6 flex items-center justify-center bg-gradient-to-br from-blue-600 via-indigo-300 to-blue-500 rounded-lg">
         <div class="w-full max-w-md bg-white/90 backdrop-blur-md p-8 rounded-2xl shadow-xl border border-gray-200">
             <h2 class="text-2xl font-bold text-gray-800 text-center mb-6">Create your account</h2>
 
